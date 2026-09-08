@@ -3,7 +3,7 @@
 ## Team Members
 
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò (Role) |
-|:---:|:---|:---:|:---|:---|
+|:---:|:---|:---:|:---|
 | 1 | **Dam Le Tuan Anh** | SE204111 | Front-End Dev |
 | 2 | **Nguyen Ngoc Phuc** | SE203055 | Back-End Dev |
 | 3 | **Nguyen Pham An** | SE20xxxx | Back-End Dev |
