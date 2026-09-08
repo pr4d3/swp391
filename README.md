@@ -1,5 +1,7 @@
 # swp391 (phase 0)
 
+Project name: No.5: Self-Storage Facility Rental and Management System
+
 ## Team Members
 
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò (Role) |
@@ -15,6 +17,3 @@
 * **Front-End:** ReactJS (v19.2.8)
 * **Back-End:** JDK21: Spring Boot (3.5.11), Spring JPA and Spring MVC 6
 * **Database:** Microsoft SQL Server (2019)
-
-## Subject (4 or 5)
-
