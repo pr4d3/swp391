@@ -8,7 +8,7 @@ Project name: No.5: Self-Storage Facility Rental and Management System
 |:---:|:---|:---:|:---|
 | 1 | **Dam Le Tuan Anh** | SE204111 | Front-End Dev |
 | 2 | **Nguyen Ngoc Phuc** | SE203055 | Back-End Dev |
-| 3 | **Nguyen Pham An** | SE20xxxx | Back-End Dev |
+| 3 | **Nguyen Pham An** | SE204957 | Back-End Dev |
 | 4 | **Than Nhat Huy** | SE203317 | Back-End / DB |
 | 5 | **Nguyen Thien Phu** | SE203352 | QA / Tester / FE |
 
