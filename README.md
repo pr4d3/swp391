@@ -4,7 +4,7 @@ Project name: No.5: Self-Storage Facility Rental and Management System
 
 ## Team Members
 
-| STT | Họ và Tên | Mã Sinh Viên | Vai trò (Role) |
+| No. | Fullname | Student ID | Role |
 |:---:|:---|:---:|:---|
 | 1 | **Dam Le Tuan Anh** | SE204111 | Front-End Dev |
 | 2 | **Nguyen Ngoc Phuc** | SE203055 | Back-End Dev |
