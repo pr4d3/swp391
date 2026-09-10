@@ -1,6 +1,6 @@
-# swp391 (phase 0)
+# SWP391 - Project Phase 0
 
-Project name: No.5: Self-Storage Facility Rental and Management System
+**Project Name:** No.5: Self-Storage Facility Rental and Management System
 
 ## Team Members
 
@@ -14,6 +14,6 @@ Project name: No.5: Self-Storage Facility Rental and Management System
 
 ## Tech Stack:
 
-* **Front-End:** ReactJS (v19.2.8)
-* **Back-End:** JDK21: Spring Boot (3.5.11), Spring JPA and Spring MVC 6
+* **Front-End:** ReactJS (v19.x) + RestAPI
+* **Back-End:** JDK25+: Spring Boot (3.x), Spring JPA and Spring MVC 6
 * **Database:** Microsoft SQL Server (2019)
